@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.4 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=test4.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\test4 -TC:\CooCox\CoIDE\configuration\ProgramData\test4/arm-gcc-link.ld -g -L..\..\..\STM32F4-Discovery -lpdmfilter_gcc">
+      <target file="test4.elf" lastModified="14db1beb895">
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="14db1bea1b5"/>
+         <source file="..\obj\tm_stm32f4_hd44780.o" lastModified="14db1bea298"/>
+         <source file="..\obj\stm32f4_discovery_audio_codec.o" lastModified="14db1bea3b3"/>
+         <source file="..\obj\stm32f4xx_dac.o" lastModified="14db1bea48d"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="14db1bea50c"/>
+         <source file="..\obj\stm32f4_discovery.o" lastModified="14db1bea675"/>
+         <source file="..\obj\main.o" lastModified="14db1bea774"/>
+         <source file="..\obj\tm_stm32f4_button.o" lastModified="14db1bea89d"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="14db1bea9b6"/>
+         <source file="..\obj\tm_stm32f4_hcsr04.o" lastModified="14db1beaa5c"/>
+         <source file="..\obj\tm_stm32f4_delay.o" lastModified="14db1beab16"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="14db1beabe8"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14db1beac82"/>
+         <source file="..\obj\syscalls.o" lastModified="14db1bead41"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="14db1beae16"/>
+         <source file="..\obj\stm32f4_discovery_callbacks.o" lastModified="14db1beae9d"/>
+         <source file="..\obj\stm32f4xx_spi.o" lastModified="14db1beaf7b"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="14db1beb056"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="14db1beb0f9"/>
+         <source file="..\obj\misc.o" lastModified="14db1beb19e"/>
+         <source file="..\obj\tm_stm32f4_gpio.o" lastModified="14db1beb267"/>
+         <source file="..\obj\stm32f4_discovery_lis302dl.o" lastModified="14db1beb3b7"/>
+         <source file="..\obj\tm_stm32f4_timer_properties.o" lastModified="14db1beb46b"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="14db1beb5af"/>
+      </target>
+   </processor>
+</history>
